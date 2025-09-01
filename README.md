@@ -43,7 +43,7 @@ Credits:
   <tr>
     <td align="center" width="33%">
       <a href="https://helpicon.se">
-        <img src="https://raw.githubusercontent.com/Arose-Niazi/assets/main/helpicon.png"
+        <img src="https://github.com/syedHasnain0099/syedHasnain0099/blob/main/assets/helpicon.png?raw=true"
              alt="Helpicon" style="width:100%; height:180px; object-fit:cover;"/>
       </a>
       <br/><b>Helpicon</b><br/>
@@ -51,7 +51,7 @@ Credits:
     </td>
     <td align="center" width="33%">
       <a href="https://portal.papalaziusbooks.com">
-        <img src="https://raw.githubusercontent.com/Arose-Niazi/assets/main/papalazius.png"
+        <img src="https://github.com/syedHasnain0099/syedHasnain0099/blob/main/assets/papalazius.png?raw=true"
              alt="Papalazius Books" style="width:100%; height:180px; object-fit:cover;"/>
       </a>
       <br/><b>Papalazius Books</b><br/>
@@ -59,7 +59,7 @@ Credits:
     </td>
     <td align="center" width="33%">
       <a href="https://naeeman.com/en/">
-        <img src="https://raw.githubusercontent.com/Arose-Niazi/assets/main/naeeman.png"
+        <img src="https://github.com/syedHasnain0099/syedHasnain0099/blob/main/assets/naeeman.png?raw=true"
              alt="Naeeman" style="width:100%; height:180px; object-fit:cover;"/>
       </a>
       <br/><b>Naeeman</b><br/>
