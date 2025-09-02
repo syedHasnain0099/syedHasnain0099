@@ -74,10 +74,10 @@ Credits:
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <!-- <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=syedHasnain0099&count_private=true&show_icons=true&theme=tokyonight"
            alt="Hasnain's GitHub stats" />
-    </td>
+    </td>-->
     <td valign="top" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedHasnain0099&layout=compact&theme=tokyonight"
            alt="Top languages" />
